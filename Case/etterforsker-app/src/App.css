@@ -1,0 +1,72 @@
+body{
+  margin-top: 5rem;
+}
+
+
+
+
+#nav-link{
+  color: white;
+
+  
+}
+
+
+.card-img-top{
+  height: 100px;;
+}
+
+
+.form-group{
+  width: 500px;
+  margin-left: 5px;
+}
+
+#create-case-container{
+  margin-top: 70px;
+  margin-left: 490px;
+  width: 520px;
+  border: 3px solid #3f327c;
+  outline:#383838 solid 10px;;
+}
+
+#table-pic{
+  height: 100px;
+  width: 100px;
+}
+
+#deleteForm{
+  margin-inline-start: 550px;
+  margin-top: 3px;
+}
+
+#admin-container{
+  margin-left: 600px;
+}
+
+#admin-h1{
+  margin-top: -100px;
+}
+
+#admin-h3{
+  margin-top: 20px;
+  margin-left: -125px;
+}
+
+#admin-btn{
+  margin-top: 20px;
+  margin-left: 35px;
+  
+}
+
+#back-btn{
+  margin-left:4px ;
+}
+
+#back-btn2{
+  margin-left:500px ;
+}
+
+#home{
+  margin-top: 100px;
+}
